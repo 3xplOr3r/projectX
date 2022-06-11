@@ -434,7 +434,7 @@ form .submit-btn:hover {
     .navbar a {
         display: block;
         padding: 1rem;
-        border-right: 2px solid var(--main-color);
+        border-left: 2px solid var(--main-color);
         margin: 1rem;
     }
 
