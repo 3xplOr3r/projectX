@@ -23,7 +23,7 @@ sr.reveal('.home-image', {delay:400 , origin: 'right'})
 sr.reveal('.about, .services, .contact, .btn, .copyright', {delay:200 , origin: 'bottom'}) 
 
 const typed = new Typed(' .multiple-text', {
-    strings: ['Frontend Developer' ,'Content Writer' , 'Programmer' , 'NaSa-HaCkEr],
+    strings: ['Frontend Developer' ,'Content Writer' , 'Programmer' , 'NaSa-HaCkEr'],
     typeSpeed: 60,
     backSpeed: 50,
     backDelay: 1000,
